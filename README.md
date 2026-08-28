@@ -1,0 +1,41 @@
+# SOC Investigation Portfolio
+
+This repository contains hands-on SOC investigation cases completed through practical labs and security training environments.
+
+The purpose of this portfolio is to demonstrate my learning process in:
+
+- Alert triage
+- Log analysis
+- Microsoft Sentinel
+- Basic KQL
+- Process and parent-child process analysis
+- Phishing investigation
+- Network-based threat analysis
+- True Positive / False Positive classification
+- Incident reporting
+
+## Investigation Cases
+
+Planned case studies:
+
+- DNS Exfiltration Investigation
+- PowerView / Reconnaissance Investigation
+- Phishing Attachment Investigation
+- Windows Process False Positive Investigation
+
+## Tools & Technologies
+
+- Microsoft Sentinel
+- KQL
+- Microsoft Defender
+- Wireshark
+- TryHackMe
+- VirusTotal
+- Sandbox / File Analysis Tools
+- Windows
+- Linux
+- PowerShell / CMD
+
+## Learning Focus
+
+I am currently developing practical SOC analyst skills by investigating alerts, correlating logs, identifying suspicious behavior, and documenting findings in a structured way.
