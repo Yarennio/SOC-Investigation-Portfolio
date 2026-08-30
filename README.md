@@ -20,7 +20,7 @@ Planned case studies:
 
 - [DNS Exfiltration Investigation](case-01-dns-exfiltration/README.md)
 - [PowerView Reconnaissance Investigation](case-02-powerview-reconnaissance/README.md)
-- Phishing Attachment Investigation
+- [Phishing Attachment Investigation](case-03-phishing-attachment/README.md)
 - Windows Process False Positive Investigation
 
 ## Tools & Technologies
