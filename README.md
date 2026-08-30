@@ -19,7 +19,7 @@ The purpose of this portfolio is to demonstrate my learning process in:
 Planned case studies:
 
 - [DNS Exfiltration Investigation](case-01-dns-exfiltration/README.md)
-- PowerView / Reconnaissance Investigation
+- [PowerView Reconnaissance Investigation](case-02-powerview-reconnaissance/README.md)
 - Phishing Attachment Investigation
 - Windows Process False Positive Investigation
 
